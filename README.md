@@ -8,4 +8,4 @@
 ![Design preview for the Article preview component coding challenge](./design/my-design-3.jpeg)
 ![Design preview for the Article preview component coding challenge](./design/my-design-4.jpeg)
 
-## This is the [link]() to the proyect deploy.
+## This is the [link](https://my-article-preview-component-master.netlify.app/) to the proyect deploy.
